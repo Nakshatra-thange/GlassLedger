@@ -1,0 +1,10 @@
+[
+    { "ticker": "RELIANCE.NS",   "name": "Reliance Industries", "market": "IN", "call_date": "2025-02-10", "target": 1450, "thesis": "Retail + Jio monetization; refining margins recovering.", "status": "open" },
+    { "ticker": "TCS.NS",        "name": "Tata Consultancy",    "market": "IN", "call_date": "2025-02-24", "target": 4600, "thesis": "Deal pipeline strong; INR tailwind on exports.", "status": "open" },
+    { "ticker": "HDFCBANK.NS",   "name": "HDFC Bank",           "market": "IN", "call_date": "2025-03-10", "target": 2000, "thesis": "Post-merger deposit ramp; re-rating on stable NIMs.", "status": "open" },
+
+    { "ticker": "NVDA",          "name": "NVIDIA",              "market": "US", "call_date": "2025-02-10", "target": 160,  "thesis": "Data-center demand; Blackwell ramp underappreciated.", "status": "open" },
+    { "ticker": "MSFT",          "name": "Microsoft",           "market": "US", "call_date": "2025-03-03", "target": 470,  "thesis": "Copilot attach + Azure reacceleration.", "status": "open" },
+    { "ticker": "AAPL",          "name": "Apple",               "market": "US", "call_date": "2025-02-18", "target": 275,  "thesis": "Services margin story; softer near-term iPhone.", "status": "open" },
+    { "ticker": "TSLA",          "name": "Tesla",               "market": "US", "call_date": "2025-03-10", "target": 420,  "thesis": "Contrarian call into weakness; energy + FSD optionality.", "status": "open" }
+  ]
